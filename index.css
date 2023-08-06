@@ -1,0 +1,21 @@
+
+body {
+    
+}
+.contaner{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+   
+    
+}
+.contaner2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+}
+.contaner3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: green;
+}
